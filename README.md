@@ -2,7 +2,7 @@
 
 ## Dependencies 🎛️
 
-- SendGrid (Configured sender, API Key & Node Module)
+- [SendGrid](https://signup.sendgrid.com/) (Configured sender, API Key & Node Module)
 - [IPInfo.io](https://ipinfo.io/signup) (API Key)
 
 ## Dev Setup 🚧
