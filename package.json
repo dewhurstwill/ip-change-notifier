@@ -1,0 +1,19 @@
+{
+  "name": "ip-change-notifier",
+  "version": "1.0.0",
+  "description": "Sends an email when your public IP changes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Will Dewhurst (will@wdew.uk)",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0"
+  }
+}
